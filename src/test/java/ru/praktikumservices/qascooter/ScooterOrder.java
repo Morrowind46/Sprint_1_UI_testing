@@ -7,7 +7,6 @@ import praktikumservices.qascooter.pageobject.PageOrder;
 
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.Selenide.page;
-import static org.junit.Assert.assertTrue;
 
 public class ScooterOrder {
 
