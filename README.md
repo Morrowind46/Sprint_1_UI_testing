@@ -1,4 +1,4 @@
-## Sprint_1_UI_testing
+## Sprint_1_UI_testing_yandex_practicum
 
 ## UI автотесты для учебного [сервиса «Яндекс.Самокат»](https://qa-scooter.praktikum-services.ru/)
 
