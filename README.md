@@ -13,4 +13,4 @@
 ```   
 git clone git@github.com:<username>/Sprint_1_UI_testing_yandex_practicum.git
 ```
-5. Открой склонированный проект в IntelliJ IDEA. Вот так: File → Open → папка с проектом `Sprint_1_UI_testing` .
+5. Открой склонированный проект в IntelliJ IDEA. Вот так: File → Open → папка с проектом `Sprint_1_UI_testing_yandex_practicum` .
